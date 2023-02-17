@@ -1,2 +1,2 @@
-vi 2-hellofile
 #!/bin/bash
+cat /etc/passwd  /etc/hosts
